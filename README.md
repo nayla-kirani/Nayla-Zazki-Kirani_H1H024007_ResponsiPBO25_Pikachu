@@ -114,3 +114,7 @@ Project ini dibuat agar:
 - Sesuai ketentuan responsi (PHP native, OOP, tanpa framework),
 - Tampilan rapi dan konsisten ,
 - Dan siap dinilai sebagai project Responsi PBO.
+
+  ## Video Demonstrasi
+[Klik untuk menonton video](https://github.com/nayla-kirani/Nayla-Zazki-Kirani_H1H024007_ResponsiPBO25_Pikachu/raw/refs/heads/main/1129(1).mp4)
+
